@@ -35,8 +35,8 @@ import {
 
 // --- Configuración y Constantes con el Nuevo Número ---
 const DEFAULT_N8N_WEBHOOK = "https://n8n.example.com/webhook/mirando-order";
-const WHATSAPP_NUMBER = "573196946020"; // Formato directo wa.me
-const WHATSAPP_DISPLAY = "319 694 6020";
+const WHATSAPP_NUMBER = "573174719064"; // Formato directo wa.me
+const WHATSAPP_DISPLAY = "3174719064";
 
 const PLANS_DATA = [
   {
